@@ -32,7 +32,7 @@ gh0sthacker@[github]:~$ cat identity.json
   <img src="https://img.shields.io/badge/Recon-nmap-00D9FF?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Web-Burp-00D9FF?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Exploit-Metasploit-00D9FF?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AD-BloodHound-00D9FF?style=for-the-badge&logo= Sharpcollection&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AD-BloodHound-00D9FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwIDNMNCAyMWg2bC0yIDNoOGwtMi05aDZ6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Lateral-Impacket-00D9FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Build-Go-00D9FF?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Script-Python-00D9FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
@@ -56,18 +56,41 @@ gh0sthacker@[github]:~$ cat identity.json
 
 ## `> featured work`
 
-<!-- Замените USERNAME/repo на свои. Чтобы убрать секцию — удалите весь блок. -->
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/gh0sthacker/REPO1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gh0sthacker&repo=REPO1&theme=chartreuse-dark&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
+      <a href="https://github.com/gh0sthacker/POC">
+        <br/>
+        <b>POC</b> — Security PoCs and exploit demonstrations
       </a>
+      <br/>
+      <a href="https://github.com/gh0sthacker/POC"><img src="https://img.shields.io/badge/POC-exploits-00D9FF?style=flat-square&labelColor=0d1117" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/gh0sthacker/REPO2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gh0sthacker&repo=REPO2&theme=chartreuse-dark&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
+      <a href="https://github.com/gh0sthacker/Parcer_cve_rating">
+        <br/>
+        <b>Parcer_cve_rating</b> — CVE severity / rating parser
       </a>
+      <br/>
+      <a href="https://github.com/gh0sthacker/Parcer_cve_rating"><img src="https://img.shields.io/badge/CVE-rating_parser-00D9FF?style=flat-square&labelColor=0d1117" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/gh0sthacker/system_info_linux">
+        <br/>
+        <b>system_info_linux</b> — Linux recon / system info collector
+      </a>
+      <br/>
+      <a href="https://github.com/gh0sthacker/system_info_linux"><img src="https://img.shields.io/badge/Linux-recon-00D9FF?style=flat-square&labelColor=0d1117&logo=linux&logoColor=white" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/gh0sthacker/RDP_checker">
+        <br/>
+        <b>RDP_checker</b> — RDP service reachability checker
+      </a>
+      <br/>
+      <a href="https://github.com/gh0sthacker/RDP_checker"><img src="https://img.shields.io/badge/RDP-checker-00D9FF?style=flat-square&labelColor=0d1117" /></a>
     </td>
   </tr>
 </table>
@@ -87,8 +110,12 @@ gh0sthacker@[github]:~$ cat identity.json
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gh0sthacker&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0sthacker&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh0sthacker&theme=2074" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=gh0sthacker&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0sthacker&theme=2074" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh0sthacker&theme=2074" width="48%" />
 </p>
 
 ---
