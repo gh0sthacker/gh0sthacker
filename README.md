@@ -16,7 +16,7 @@
 ```text
 gh0sthacker@[github]:~$ cat identity.json
 {
-  "role":       ["Red Team operator", "IB engineer", "Pentester", "Bug hunter"],
+  "role":       ["Red Team operator", "Engineer", "Pentester", "Bug hunter"],
   "focus":      ["Web exploitation", "Active Directory", "Cloud misconfig"],
   "arsenal":    ["nmap", "burp", "metasploit", "bloodhound", "impacket", "go"],
   "credentials":["OSCP-mindset", "responsible-disclosure-first"],
