@@ -76,14 +76,13 @@ gh0sthacker@[github]:~$ cat identity.json
 
 ## `> contact`
 
-<!-- Заполните. Что не нужно — удалите строку. -->
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR_EMAIL-00D9FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://t.me/YOUR_TG"><img src="https://img.shields.io/badge/Telegram-@YOUR_TG-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://twitter.com/YOUR_TW"><img src="https://img.shields.io/badge/X-@YOUR_TW-00D9FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://YOUR_SITE.com"><img src="https://img.shields.io/badge/Web-YOUR_SITE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://hackerone.com/YOUR_H1"><img src="https://img.shields.io/badge/HackerOne-YOUR_H1-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/gh0sthacker"><img src="https://img.shields.io/badge/GitHub-%40gh0sthacker-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/gh0sthacker/gh0sthacker/issues/new"><img src="https://img.shields.io/badge/Disclosure-Security_Advisory-00D9FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-add_yours-00D9FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
+
+<sub>↳ Want a contact link here? Edit the README and replace the placeholders.</sub>
 
 ---
 
