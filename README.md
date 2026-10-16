@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&height=70&lines=Red+Team+%C2%B7+OffSec+%C2%B7+Bug+Hunter;Pentester+%C2%B7+Engineer+%C2%B7+OSCP;Adversary+emulation+%C2%B7+Coordinated+disclosure" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&height=70&lines=Red+Team+%C2%B7+OffSec+%C2%B7+Bug+Hunter;Pentester+%C2%B7+Engineer;Adversary+emulation+%C2%B7+Coordinated+disclosure" alt="banner" />
 </h1>
 
 <p align="center">
