@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="300" viewBox="0 0 1760 300" role="img" aria-labelledby="title desc">
+  <title id="title">gh0sthacker — Offensive security / vulnerability research</title>
+  <desc id="desc">Published advisory CVSS 3.1 scores: 9.8 for missing authentication, 8.8 for CSRF, 7.6 for session hijack and XSS, and 7.2 for authenticated code execution.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 H 0 V 48" fill="none" stroke="#8B949E" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1760" height="300" fill="#0D1117"/>
+  <rect width="1760" height="299" fill="url(#grid)"/>
+  <path d="M0 299 H1760" fill="none" stroke="#232A33" stroke-width="2"/>
+  <g font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="64" y="150" fill="#E6EDF3" font-size="96" font-weight="600" letter-spacing="-4">gh0sthacker</text>
+    <text x="68" y="210" fill="#8B949E" font-size="25" letter-spacing="0.6">OFFENSIVE SECURITY / VULNERABILITY RESEARCH</text>
+    <text x="1224" y="49" fill="#8B949E" font-size="18" letter-spacing="1.5">CVSS 3.1 / PUBLISHED</text>
+    <path d="M1232 85 V229 M1232 91 H1248 M1232 135 H1248 M1232 179 H1248 M1232 223 H1248" fill="none" stroke="#8B949E" stroke-opacity="0.5" stroke-width="2"/>
+    <g fill="#E6EDF3" font-size="32" font-weight="600">
+      <text x="1272" y="102">9.8</text>
+      <text x="1272" y="146">8.8</text>
+      <text x="1272" y="190">7.6</text>
+      <text x="1272" y="234">7.2</text>
+    </g>
+    <g fill="#8B949E" font-size="20">
+      <text x="1360" y="99">Missing auth</text>
+      <text x="1360" y="143">CSRF</text>
+      <text x="1360" y="187">Session / XSS</text>
+      <text x="1360" y="231">Auth. RCE</text>
+    </g>
+  </g>
+</svg>
