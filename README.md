@@ -86,4 +86,8 @@ CVE requests submitted, IDs reserved, not yet public. No public CVE record yet; 
 
 </details>
 
+### Achievements
+
+<p><img src="assets/achievements.svg" width="706" height="88" alt="GitHub achievements: Starstruck, Quickdraw, YOLO"></p>
+
 Contact · [ghosthacker.security@gmail.com](mailto:ghosthacker.security@gmail.com) · [/security](https://github.com/gh0sthacker/gh0sthacker/security)

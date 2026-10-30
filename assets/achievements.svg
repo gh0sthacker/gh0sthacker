@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="706" height="88" viewBox="0 0 706 88" role="img" aria-label="GitHub achievements: Starstruck, Quickdraw, YOLO">
+<rect width="706" height="88" fill="none"/>
+<g><rect x="0" y="10" width="258" height="68" rx="32" fill="#0F141B" stroke="#232A33"/>
+<g transform="translate(26 28) scale(1.875)"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="#2DD4BF"/></g>
+<text x="76" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="24" fill="#E6EDF3" letter-spacing="0.2">Starstruck</text></g>
+<g><rect x="278" y="10" width="242" height="68" rx="32" fill="#0F141B" stroke="#232A33"/>
+<g transform="translate(304 28) scale(1.875)"><path d="M9.504.43a1.516 1.516 0 0 1 2.437 1.713L10.415 5.5h2.123c1.57 0 2.346 1.909 1.22 3.004l-7.34 7.142a1.249 1.249 0 0 1-.871.354h-.302a1.25 1.25 0 0 1-1.157-1.723L5.633 10.5H3.462c-1.57 0-2.346-1.909-1.22-3.004L9.504.43Z" fill="#2DD4BF"/></g>
+<text x="354" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="24" fill="#E6EDF3" letter-spacing="0.2">Quickdraw</text></g>
+<g><rect x="540" y="10" width="164" height="68" rx="32" fill="#0F141B" stroke="#232A33"/>
+<g transform="translate(566 28) scale(1.875)"><path d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z" fill="#2DD4BF"/></g>
+<text x="616" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="24" fill="#E6EDF3" letter-spacing="0.2">YOLO</text></g>
+</svg>
