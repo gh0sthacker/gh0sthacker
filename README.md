@@ -2,7 +2,7 @@
 
 I find and responsibly disclose vulnerabilities in web applications. I build tooling to investigate captured application behaviour and evidence. I maintain graph-kb-assistant, a local-first graph over Caido HTTP captures.
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://app.hackthebox.com/users/2035419?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://app.hackthebox.com/public/users/2035419)
 
 <table><tr><td width="293">
 
