@@ -4,9 +4,7 @@ I find and responsibly disclose vulnerabilities in web applications. I build too
 
 ### Training & profiles
 
-[Hack The Box](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) · [TryHackMe](https://tryhackme.com/p/max.iw15) · [BI.ZONE](https://bugbounty.bi.zone/profile/ghosthacker/hackactivity) · [PortSwigger Academy](https://portswigger.net/web-security/dashboard) *(dashboard requires login; Hall of Fame rank #403, user-provided)*
-
-[![PortSwigger Web Security Academy progress: overall and level progress](assets/portswigger-progress.png)](https://portswigger.net/web-security)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-D02E2E?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gh0sthacker) [![PortSwigger HOF #403](https://img.shields.io/badge/PortSwigger-HOF%20%23403-0072CE?style=flat-square)](https://portswigger.net/web-security/hall-of-fame)
 
 <table><tr><td width="293">
 
