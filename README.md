@@ -4,7 +4,9 @@ I find and responsibly disclose vulnerabilities in web applications. I build too
 
 ### Training & profiles
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-D02E2E?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gh0sthacker) [![PortSwigger HOF #403](https://img.shields.io/badge/PortSwigger-HOF%20%23403-0072CE?style=flat-square)](https://portswigger.net/web-security/hall-of-fame)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-D02E2E?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gh0sthacker) [![PortSwigger Expert](https://img.shields.io/badge/PortSwigger-Expert-0072CE?style=flat-square)](https://portswigger.net/web-security/dashboard)
+
+![PortSwigger Web Security Academy — Expert level](assets/portswigger-expert.png)
 
 <table><tr><td width="293">
 
