@@ -4,7 +4,7 @@ I find and responsibly disclose vulnerabilities in web applications. I build too
 
 ### Training & profiles
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-D02E2E?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gh0sthacker) <img src="assets/portswigger-expert-icon.svg" height="24" alt="Ex">&nbsp;[![PortSwigger Expert](https://img.shields.io/badge/PortSwigger%20Expert-0072CE?style=flat-square)](https://portswigger.net/web-security/dashboard)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111)](https://profile.hackthebox.com/profile/019e644d-35a3-7128-9077-ce1f565774ec?utm_medium=copy_url) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-D02E2E?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gh0sthacker) <a href="https://portswigger.net/web-security/dashboard"><img src="https://img.shields.io/badge/PortSwigger-9FEF00?style=flat-square" alt="PortSwigger"><img src="assets/portswigger-expert-icon.svg" height="24" alt="Ex"></a>
 
 <table><tr><td width="293">
 
